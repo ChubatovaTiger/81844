@@ -45,7 +45,7 @@ object Build : BuildType({
     }
 
     requirements {
-        contains("system.agent.name", "Def")
+        contains("system.agent.name", "tig")
     }
 
     steps {

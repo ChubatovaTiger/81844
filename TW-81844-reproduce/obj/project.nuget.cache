@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "TUreaE0lHb3iBZAPRyCvWImkr5aM3lzg1jozt5ZSmdf9D6+QGknqMerV0lJkfVmyzTVusM50TiGEi6Ozi0vGZg==",
+  "success": true,
+  "projectFilePath": "C:\\repos\\TW-81844-reproduce\\TW-81844-reproduce\\TW-81844-reproduce.csproj",
+  "expectedPackageFiles": [],
+  "logs": [
+    {
+      "code": "NU1803",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "You are running the 'restore' operation with an 'HTTP' source, 'http://proget.tools.scdom.net/nuget/simcorp/'. Non-HTTPS access will be removed in a future version. Consider migrating to an 'HTTPS' source."
+    }
+  ]
+}

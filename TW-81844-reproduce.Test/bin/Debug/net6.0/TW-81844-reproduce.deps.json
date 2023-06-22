@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "TW-81844-reproduce/1.0.0": {
+        "runtime": {
+          "TW-81844-reproduce.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "TW-81844-reproduce/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

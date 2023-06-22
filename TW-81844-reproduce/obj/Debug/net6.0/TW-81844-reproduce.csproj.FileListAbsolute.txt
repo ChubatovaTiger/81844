@@ -1,0 +1,15 @@
+C:\repos\TW-81844-reproduce\TW-81844-reproduce\bin\Debug\net6.0\TW-81844-reproduce.exe
+C:\repos\TW-81844-reproduce\TW-81844-reproduce\bin\Debug\net6.0\TW-81844-reproduce.deps.json
+C:\repos\TW-81844-reproduce\TW-81844-reproduce\bin\Debug\net6.0\TW-81844-reproduce.runtimeconfig.json
+C:\repos\TW-81844-reproduce\TW-81844-reproduce\bin\Debug\net6.0\TW-81844-reproduce.dll
+C:\repos\TW-81844-reproduce\TW-81844-reproduce\bin\Debug\net6.0\TW-81844-reproduce.pdb
+C:\repos\TW-81844-reproduce\TW-81844-reproduce\obj\Debug\net6.0\TW-81844-reproduce.csproj.AssemblyReference.cache
+C:\repos\TW-81844-reproduce\TW-81844-reproduce\obj\Debug\net6.0\TW-81844-reproduce.GeneratedMSBuildEditorConfig.editorconfig
+C:\repos\TW-81844-reproduce\TW-81844-reproduce\obj\Debug\net6.0\TW-81844-reproduce.AssemblyInfoInputs.cache
+C:\repos\TW-81844-reproduce\TW-81844-reproduce\obj\Debug\net6.0\TW-81844-reproduce.AssemblyInfo.cs
+C:\repos\TW-81844-reproduce\TW-81844-reproduce\obj\Debug\net6.0\TW-81844-reproduce.csproj.CoreCompileInputs.cache
+C:\repos\TW-81844-reproduce\TW-81844-reproduce\obj\Debug\net6.0\TW-81844-reproduce.dll
+C:\repos\TW-81844-reproduce\TW-81844-reproduce\obj\Debug\net6.0\refint\TW-81844-reproduce.dll
+C:\repos\TW-81844-reproduce\TW-81844-reproduce\obj\Debug\net6.0\TW-81844-reproduce.pdb
+C:\repos\TW-81844-reproduce\TW-81844-reproduce\obj\Debug\net6.0\TW-81844-reproduce.genruntimeconfig.cache
+C:\repos\TW-81844-reproduce\TW-81844-reproduce\obj\Debug\net6.0\ref\TW-81844-reproduce.dll

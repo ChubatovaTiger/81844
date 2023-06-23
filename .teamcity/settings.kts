@@ -46,7 +46,7 @@ object Build : BuildType({
         root(DslContext.settingsRoot)
     }
     requirements {
-        contains("system.agent.name", agname)
+        contains("system.agent.name", "ko" + "DslContext.projectId.toString()).take(5).lowercase()")
     }
 
     steps {

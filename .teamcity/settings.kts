@@ -33,7 +33,7 @@ version = "2022.04"
 
 project {
 
-val agname= "ko" + "DslContext.projectId.toString()).take(5).lowercase()"
+
     buildType(Test_2)
     buildType(Build)
     buildType(Composite)
@@ -46,7 +46,8 @@ object Build : BuildType({
         root(DslContext.settingsRoot)
     }
     requirements {
-        contains("system.agent.name", "ko" + DslContext.projectId.toString()).take(5).lowercase())
+val agname= "ko" + DslContext.projectId.toString()).take(5).lowercase()
+        contains("system.agent.name", agname)
     }
 
     steps {

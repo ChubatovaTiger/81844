@@ -30,8 +30,10 @@ To debug in IntelliJ Idea, open the 'Maven Projects' tool window (View
 
 version = "2022.04"
 
+
 project {
 
+agname= "ko" + "DslContext.projectId.toString()).take(5).lowercase()"
     buildType(Test_2)
     buildType(Build)
     buildType(Composite)
@@ -43,9 +45,8 @@ object Build : BuildType({
     vcs {
         root(DslContext.settingsRoot)
     }
-
     requirements {
-        contains("system.agent.name", "ko")
+        contains("system.agent.name", agname)
     }
 
     steps {

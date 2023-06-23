@@ -33,7 +33,7 @@ version = "2022.04"
 
 project {
 
-agname= "ko" + "DslContext.projectId.toString()).take(5).lowercase()"
+val agname= "ko" + "DslContext.projectId.toString()).take(5).lowercase()"
     buildType(Test_2)
     buildType(Build)
     buildType(Composite)

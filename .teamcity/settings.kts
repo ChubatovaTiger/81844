@@ -101,7 +101,7 @@ object Test_2 : BuildType({
     }
 
     requirements {
-        contains("system.agent.name", "dev-tc-test2")
+        contains("system.agent.name", "JS")
     }
 
     features {

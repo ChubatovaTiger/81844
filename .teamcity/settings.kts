@@ -45,7 +45,7 @@ object Build : BuildType({
     }
 
     requirements {
-        contains("system.agent.name", "dev-tc-test1")
+        contains("system.agent.name", "JS")
     }
 
     steps {

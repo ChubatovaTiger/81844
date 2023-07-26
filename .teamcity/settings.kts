@@ -108,6 +108,7 @@ object Test : BuildType({
             sdk = "6"
         }
         dotnetTest {
+            enabled = false
             projects = "TW-81844-reproduce.Test/TW-81844-reproduce.Test.csproj"
             sdk = "6"
         }

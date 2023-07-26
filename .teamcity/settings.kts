@@ -83,7 +83,6 @@ object Composite : BuildType({
 
     triggers {
         vcs {
-            enabled = false
         }
     }
 
